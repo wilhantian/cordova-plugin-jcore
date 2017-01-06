@@ -21,7 +21,7 @@
 
 极光开发者服务SDK采用了模块化的使用模式，即一个核心（JCore）+N种服务（JPush，JAnalytics，...）的使用方式，方便开发者使用某一项服务或多项服务，极大的优化了多模块同时使用时功能模块重复的问题。如下图：
 
-![](https://docs.jiguang.cn/janalytics/client/image/sdk_model.png)
+![](doc/sdk_model.png)
 
 
 

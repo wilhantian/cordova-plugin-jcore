@@ -27,7 +27,7 @@
 
 ## Install
 
-JCore 作为其他 Cordova 插件的依赖，必要时会自动安装，不需要开发者手动安装。
+Cordova Plugin JCore 作为其他极光 Cordova 插件的依赖，必要时会自动安装，不需要开发者安装。
 
 
 

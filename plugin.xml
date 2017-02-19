@@ -23,6 +23,6 @@
     </platform>
 
     <platform name="ios">
-        <source-file src="src/ios/jcore-ios-1.0.0.a" framework="true" />
+        <source-file src="src/ios/jcore-ios-1.1.1.a" framework="true" />
     </platform>
 </plugin>
